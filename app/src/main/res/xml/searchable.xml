@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/client"
+    android:hint="@string/search_client"
+    android:searchSuggestAuthority="chupaj.journal"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestSelection="journal_name LIKE ?"
+    android:searchSuggestThreshold="3"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:searchSuggestIntentData="content://chupaj.journal.data.JournalContract">
+</searchable>

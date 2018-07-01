@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Journal</string>
+
+
+    <!-- Label for editor menu option to save journal and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current journal [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+
+    <string name="client">Journal database</string>
+    <string name="share_journal_details">Share journal details</string>
+
+    <string name="search_client">Search journal database</string>
+
+    <string name="insert_dummy_journal_data">Insert sample data</string>
+    <string name="menu_search">Search </string>
+    <string name="unknown">Unknown</string>
+    <string name="title">Title</string>
+    <string name="category">category</string>
+    <string name="notes">Notes</string>
+
+</resources>
